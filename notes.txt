@@ -16,3 +16,20 @@ SECONDARY CONNECTION STRING
 mongodb://best-for-you-db-vmj:P4W0ZtNobVP2Jy07NBA8zMQzqb0lrFyaVOJXHg8MU9S18KlJYyEJJprnmASROCdqeknsJo7bWELu5mlE17JXSg==@best-for-you-db-vmj.documents.azure.com:10255/?ssl=true&replicaSet=globaldb
 SSL
 true
+
+
+Registry name
+bestforyourregistryvmj
+Login server
+bestforyourregistryvmj.azurecr.io
+Admin user
+Enable
+Disable
+Username
+bestforyourregistryvmj
+Name
+Password
+password
+RtZWCBQ4=er991Atnz1SlhlL4jPIPDaE
+password2
+T7QWHN9=nZNiGgDVtKJF09dVZRsgCrI0
