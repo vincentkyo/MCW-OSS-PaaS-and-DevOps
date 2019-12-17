@@ -1,0 +1,18 @@
+HOST
+best-for-you-db-vmj.documents.azure.com
+PORT
+10255
+USERNAME
+best-for-you-db-vmj
+PRIMARY PASSWORD
+deO1dW6kKQf3IkDZTteFMsp4Z8TAsRCUvqLeofmz1BdyLFu6fR2TJPyRjGLLVAQxOqmV16vyg3D3A4C4RAPWGQ==
+ 
+SECONDARY PASSWORD
+P4W0ZtNobVP2Jy07NBA8zMQzqb0lrFyaVOJXHg8MU9S18KlJYyEJJprnmASROCdqeknsJo7bWELu5mlE17JXSg==
+ 
+PRIMARY CONNECTION STRING
+mongodb://best-for-you-db-vmj:deO1dW6kKQf3IkDZTteFMsp4Z8TAsRCUvqLeofmz1BdyLFu6fR2TJPyRjGLLVAQxOqmV16vyg3D3A4C4RAPWGQ==@best-for-you-db-vmj.documents.azure.com:10255/?ssl=true&replicaSet=globaldb
+SECONDARY CONNECTION STRING
+mongodb://best-for-you-db-vmj:P4W0ZtNobVP2Jy07NBA8zMQzqb0lrFyaVOJXHg8MU9S18KlJYyEJJprnmASROCdqeknsJo7bWELu5mlE17JXSg==@best-for-you-db-vmj.documents.azure.com:10255/?ssl=true&replicaSet=globaldb
+SSL
+true
